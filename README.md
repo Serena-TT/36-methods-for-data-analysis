@@ -1,1 +1,1 @@
-# 36-methods-for-data-analysis
+# 数据分析36计代码和文章
