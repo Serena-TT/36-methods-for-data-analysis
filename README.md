@@ -26,5 +26,8 @@
 [数据分析36计(21)：Uber、Netflix 常用倍差法模型量化营销活动、产品改版影响效果](https://mp.weixin.qq.com/s?__biz=MzU3NjI5MjA2Mg==&mid=2247492632&idx=1&sn=40c375c7a140c0af4bfb29355df4e9d7&chksm=fd14b1a9ca6338bf5542a57f936b5ca8f5941f8a74324fc1efe244681704beb830446fa8ca2a&scene=178&cur_album_id=1350877276669558785#rd)  
 [数据分析36计(22)：分析师入门常见错误 "幸存者偏差"，如何用匹配和加权法规避](https://mp.weixin.qq.com/s?__biz=MzU3NjI5MjA2Mg==&mid=2247492846&idx=1&sn=96b3976de95d25f527ecd3d491da96b8&chksm=fd14b15fca6338497332ff9763fa7320eb1b7ec6d10dc44729d6dce6736e38eddd71d10eb5da&scene=178&cur_album_id=1350877276669558785#rd)  
 [数据分析36计(23)：长期转化率 A/B 实验的问题，用边际结构模型纠正后结论反转](https://mp.weixin.qq.com/s?__biz=MzU3NjI5MjA2Mg==&mid=2247492889&idx=1&sn=993a03967b62ff59f0f9d14350acd220&chksm=fd14b0a8ca6339be6a342e7c2ae901e848084f380c5e0b2d91846224ede30b637af221810bfa&scene=178&cur_album_id=1350877276669558785#rd)  
-
+[数据分析36计(24)：因果推断结合机器学习估计个体处理效应](https://mp.weixin.qq.com/s?__biz=MzU3NjI5MjA2Mg==&mid=2247493436&idx=1&sn=3cb5a97f3450fa2b637d4d5791a87a06&chksm=fd14b28dca633b9b348cb0a49c094257f0e68f3f5ff4045d5d0126d5603b56afd22b4f839537&token=532030216&lang=zh_CN#rd)  
+[数据分析36计(25)：微软开源 DoWhy 之因果分析快速入门](https://mp.weixin.qq.com/s?__biz=MzU3NjI5MjA2Mg==&mid=2247494025&idx=1&sn=7b73807fcd6936449b9021f6772d2bbe&chksm=fd14bc38ca63352edbf29d909974bb666d4165d69a02b206b9d67e40eb891fea449845424789&token=532030216&lang=zh_CN#rd)  
+[数据分析36计(26)：传统行业数据分析，沃尔玛如何用马尔可夫链优化拣货流程](https://mp.weixin.qq.com/s?__biz=MzU3NjI5MjA2Mg==&mid=2247494139&idx=1&sn=57d87f7b67a80b0389229622886b9ea3&chksm=fd14bc4aca63355cb738b0038ed64e962725311969da4bc46dd08a53f88d4c829cc5cc67a388&token=532030216&lang=zh_CN#rd)  
+[数据分析36计(27)：分析师与用户研究员，玩转定量研究和定性研究，落地研究结论](https://mp.weixin.qq.com/s?__biz=MzU3NjI5MjA2Mg==&mid=2247494178&idx=1&sn=abff359eea31593ff5d3c6d82cb0a894&chksm=fd14bf93ca6336857e589f3b72bc7bbb1599812eaae5c1ab131e184a6d68112cf1028bf26b04&token=532030216&lang=zh_CN#rd)  
 
