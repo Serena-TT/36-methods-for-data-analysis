@@ -30,6 +30,6 @@
 [数据分析36计(25)：微软开源 DoWhy 之因果分析快速入门](https://mp.weixin.qq.com/s?__biz=MzU3NjI5MjA2Mg==&mid=2247494025&idx=1&sn=7b73807fcd6936449b9021f6772d2bbe&chksm=fd14bc38ca63352edbf29d909974bb666d4165d69a02b206b9d67e40eb891fea449845424789&token=532030216&lang=zh_CN#rd)  
 [数据分析36计(26)：传统行业数据分析，沃尔玛如何用马尔可夫链优化拣货流程](https://mp.weixin.qq.com/s?__biz=MzU3NjI5MjA2Mg==&mid=2247494139&idx=1&sn=57d87f7b67a80b0389229622886b9ea3&chksm=fd14bc4aca63355cb738b0038ed64e962725311969da4bc46dd08a53f88d4c829cc5cc67a388&token=532030216&lang=zh_CN#rd)  
 [数据分析36计(27)：分析师与用户研究员，玩转定量研究和定性研究，落地研究结论](https://mp.weixin.qq.com/s?__biz=MzU3NjI5MjA2Mg==&mid=2247494178&idx=1&sn=abff359eea31593ff5d3c6d82cb0a894&chksm=fd14bf93ca6336857e589f3b72bc7bbb1599812eaae5c1ab131e184a6d68112cf1028bf26b04&token=532030216&lang=zh_CN#rd)  
-[数据分析36计(28)：数据分析36计(28)：Python 使用 Flask+Docker， 100行代码内实现机器学习实时预测](https://mp.weixin.qq.com/s?__biz=MzU3NjI5MjA2Mg==&mid=2247494250&idx=1&sn=da4fbf323a50d4e5d7e1101b03ce2494&chksm=fd14bfdbca6336cde4597d4d286cf7b7f99c357b253c0dac105e0f9fb6118d6a9ded5c8eca00&token=345953052&lang=zh_CN#rd)
+[数据分析36计(28)：Python 使用 Flask+Docker， 100行代码内实现机器学习实时预测](https://mp.weixin.qq.com/s?__biz=MzU3NjI5MjA2Mg==&mid=2247494250&idx=1&sn=da4fbf323a50d4e5d7e1101b03ce2494&chksm=fd14bfdbca6336cde4597d4d286cf7b7f99c357b253c0dac105e0f9fb6118d6a9ded5c8eca00&token=345953052&lang=zh_CN#rd)
 
 
